@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ceng.anadolu.bim492</groupId>
-    <artifactId>project1</artifactId>
+    <artifactId>project</artifactId>
     <version>1.0</version>
     <packaging>jar</packaging>
 
@@ -15,7 +15,7 @@
 
 
     <build>
-        <finalName>project1</finalName>
+        <finalName>project</finalName>
         <plugins>
 
             <plugin>
